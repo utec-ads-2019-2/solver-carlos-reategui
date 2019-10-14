@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlosreategui/Documents/ads/11class/solver-5/main.cpp
+solver.h
+/Users/carlosreategui/Documents/ads/11class/solver-5/solver.h
+
+/Users/carlosreategui/Documents/ads/11class/solver-5/node.h
+
+/Users/carlosreategui/Documents/ads/11class/solver-5/solver.cpp
+solver.h
+/Users/carlosreategui/Documents/ads/11class/solver-5/solver.h
+
+/Users/carlosreategui/Documents/ads/11class/solver-5/solver.h
+iostream
+-
+string
+-
+stack
+-
+vector
+-
+map
+-
+cmath
+-
+node.h
+/Users/carlosreategui/Documents/ads/11class/solver-5/node.h
+
